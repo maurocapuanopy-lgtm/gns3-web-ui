@@ -9,6 +9,8 @@
 
 Please use GNS3 WebUI bundled in `gns3server` and `gns3`.
 
+https://blogs.cisco.com/learning/two-new-ways-to-bring-netbox-into-your-cml-networks
+
 ## Development
 
 ### Branches policy
