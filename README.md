@@ -10,6 +10,8 @@
 Please use GNS3 WebUI bundled in `gns3server` and `gns3`.
 
 https://blogs.cisco.com/learning/two-new-ways-to-bring-netbox-into-your-cml-networks
+https://github.com/CiscoDevNet/cml-community/tree/master/node-definitions/opensource/netbox-server#requirments-for-use-in-a-topology
+
 
 ## Development
 
